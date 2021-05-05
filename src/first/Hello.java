@@ -1,4 +1,6 @@
+package first;
 import java.util.Scanner;
+
 public class Hello {
 
     public static void printIo(){
@@ -47,7 +49,12 @@ public class Hello {
         //print2();
         //print3();
         //print6();
+        second_lab();
+
     }
+
+
+
     public static void print5() {
 
         // вызываем конструктор класса Scanner и передаем в него объект System.in -> new Scanner(System.in)
@@ -110,4 +117,14 @@ public class Hello {
         // далее происходит печать результата,
         System.out.printf("Name: %s Age: %d Height: %.2f", name, age, height);
     }
+
+    public static void second_lab (){
+        double a = 3.14;
+        System.out.println(a);
+        byte b = Byte.MAX_VALUE;
+        System.out.println(b);
+
+    }
+
 }
+
