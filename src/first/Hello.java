@@ -7,7 +7,7 @@ public class Hello {
 
     public static void main(String[] args) {
         Task1.hello();
-        Task4.task4();
+        Task5.task5();
         //Task2.second_lab();
         //Test2.arr1();
         //Test2.test();
