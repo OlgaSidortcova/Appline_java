@@ -2,7 +2,7 @@ package first;
 
 import java.util.Scanner;
 
-public class Test {
+public class Test1 {
 
     public static void printIo() {
         System.out.println("Appline!");
