@@ -80,4 +80,11 @@ public class Test2 {
         }
         return 80;
     }
+
+    public static void test5(){
+        int x = 5;
+        int y = 60;
+        for ( ; x < y; x +=10, y -- );
+        System.out.println("x равен" + x + "y равен = "+ y);
+    }
 }
