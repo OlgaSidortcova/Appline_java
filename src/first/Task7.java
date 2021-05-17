@@ -22,17 +22,14 @@ public class Task7 {
         for (int elem : array) {
             System.out.print(elem + " ");
         }
-        boolean b = false;
+
         for (int elem : array) {
 
             if ((elem == x) || (elem == y) || (elem == z)) {
                 System.out.println("\n" + "Данное значение имеется в константах: " + elem);
-                b = true;
-                break;
+                return;
             }
         }
-        if (!b) {
             System.out.println("\n" + "Констант нет в массиве");
-        }
     }
 }
