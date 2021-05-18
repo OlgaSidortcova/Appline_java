@@ -6,8 +6,8 @@ import java.util.Scanner;
 public class Hello {
 
     public static void main(String[] args) {
-        Task1.hello();
-        Task8.task8();
+        //Task1.hello();
+        Task9.task9();
         //Test2.test5();
         //Task6.task6();
         //Task5.task5();
