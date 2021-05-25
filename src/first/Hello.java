@@ -14,7 +14,7 @@ public class Hello {
         //Task2.second_lab();
         //Test2.arr1();
         //Test2.test();
-         Test3.test3();
+         Task11.task11();
         /*boolean a = 2==1+1 | true;
         System.out.println(a);
         if (true && false){
