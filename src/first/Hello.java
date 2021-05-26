@@ -14,7 +14,8 @@ public class Hello {
         //Task2.second_lab();
         //Test2.arr1();
         //Test2.test();
-         Task12.task12("I like Java!!!");
+       //  Task12.task12("I like Java!!!");
+        Task14.task14();
         /*boolean a = 2==1+1 | true;
         System.out.println(a);
         if (true && false){
