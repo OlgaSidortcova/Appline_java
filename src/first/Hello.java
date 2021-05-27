@@ -1,8 +1,5 @@
 package first;
 
-
-import java.util.Scanner;
-
 public class Hello {
 
     public static void main(String[] args) {
@@ -14,8 +11,8 @@ public class Hello {
         //Task2.second_lab();
         //Test2.arr1();
         //Test2.test();
-       //  Task12.task12("I like Java!!!");
-        Task14.task14();
+        //  Task12.task12("I like Java!!!");
+        Task13.task13();
         /*boolean a = 2==1+1 | true;
         System.out.println(a);
         if (true && false){
