@@ -9,10 +9,10 @@ public class Hello {
         //Task6.task6();
         //Task5.task5();
         //Task2.second_lab();
-        Task13.task13();
+        //Task13.task13();
         //Test2.test();
         //  Task12.task12("I like Java!!!");
-       // Fin_1.fin1();
+        Fin3.fin3();
 
 
     }
