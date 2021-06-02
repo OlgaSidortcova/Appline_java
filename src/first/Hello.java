@@ -12,7 +12,7 @@ public class Hello {
         //Task13.task13();
         //Test2.test();
         //  Task12.task12("I like Java!!!");
-        Fin3.fin3();
+        Fin4.fin4();
 
 
     }
